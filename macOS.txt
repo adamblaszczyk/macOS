@@ -1,0 +1,10 @@
++-----------------+
+| macOS - notatki |
++-----------------+
+na podstawie: macOS 10.12 Sierra
+
+
+Blokowanie dostępu do komputera
+===============================
+https://www.nadgryzione.pl/mac/macos/blokowanie-dostepu-do-komputera/
+
